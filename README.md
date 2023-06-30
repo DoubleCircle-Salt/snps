@@ -1,1 +1,1 @@
-# snps
+# simple nps
